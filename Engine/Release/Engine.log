@@ -1,0 +1,19 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Game.cpp
+  Graphics.cpp
+  King.cpp
+  Knight.cpp
+  Main.cpp
+  MainWindow.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Surface.cpp
+  Generating code
+  774 of 1117 functions (69.3%) were compiled, the rest were copied from previous compilation.
+    477 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\bodbd\Desktop\C++ Projects\Chess_Cpp\Release\Engine.exe

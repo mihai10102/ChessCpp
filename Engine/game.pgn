@@ -1,0 +1,25 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.05.15"]
+[Round "?"]
+[White "mihaibodnaruc"]
+[Black "triyambakvijay"]
+[Result "1-0"]
+[TimeControl "180+2"]
+[WhiteElo "1252"]
+[BlackElo "1220"]
+[Termination "mihaibodnaruc won by checkmate"]
+
+1. e4 {[%clk 0:03:02][%timestamp 1]} 1... e6 {[%clk 0:03:01.9][%timestamp 1]} 2.
+d4 {[%clk 0:03:02.6][%timestamp 14]} 2... d5 {[%clk 0:03:02.8][%timestamp 11]}
+3. e5 {[%clk 0:03:04.1][%timestamp 5]} 3... c5 {[%clk 0:03:03.6][%timestamp 12]}
+4. c3 {[%clk 0:03:04.6][%timestamp 15]} 4... cxd4 {[%clk 0:03:04.1][%timestamp
+15]} 5. cxd4 {[%clk 0:03:06.5][%timestamp 1]} 5... Nc6 {[%clk
+0:03:05.1][%timestamp 10]} 6. Nf3 {[%clk 0:03:04.9][%timestamp 36]} 6... Bb4+
+{[%clk 0:03:03.9][%timestamp 32]} 7. Nc3 {[%clk 0:03:04.6][%timestamp 23]} 7...
+Nge7 {[%clk 0:03:04.4][%timestamp 15]} 8. Bd3 {[%clk 0:03:04.3][%timestamp 23]}
+8... O-O {[%clk 0:03:02.5][%timestamp 39]} 9. Bxh7+ {[%clk 0:02:46.5][%timestamp
+198]} 9... Kxh7 {[%clk 0:03:02.2][%timestamp 23]} 10. Ng5+ {[%clk
+0:02:46.9][%timestamp 16]} 10... Kg8 {[%clk 0:03:03.2][%timestamp 10]} 11. Qh5
+{[%clk 0:02:47.1][%timestamp 18]} 11... f6 {[%clk 0:02:47.5][%timestamp 177]}
+12. Qh7# {[%clk 0:02:46.1][%timestamp 30]} 1-0

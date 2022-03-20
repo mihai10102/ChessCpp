@@ -1,0 +1,22 @@
+﻿  compilation header save succeeded; see C:\Users\bodbd\Desktop\C++ Projects\Chess_Cpp\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\bodbd\Desktop\C++ Projects\Chess_Cpp\Engine\FramebufferVS.shh
+  Bishop.cpp
+  Board.cpp
+  DXErr.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  King.cpp
+  Knight.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Pawn.cpp
+  Piece.cpp
+  Queen.cpp
+  Rook.cpp
+  Surface.cpp
+  Generating code
+  All 1115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Engine.vcxproj -> C:\Users\bodbd\Desktop\C++ Projects\Chess_Cpp\x64\Release\Engine.exe
